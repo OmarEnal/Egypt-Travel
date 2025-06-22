@@ -556,7 +556,9 @@ footer p {
     .h-content h2 {
         font-size: 70px;
     }
-
+    .h-content p {
+    width: 50%;
+    }
     .intro-info {
         display: flex;
         justify-content: space-between;
